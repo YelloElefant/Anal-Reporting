@@ -123,6 +123,10 @@ CREATE TABLE web_analytics_events (
 
 ---
 
+## Screenshots
+<img width="1886" height="957" alt="image" src="https://github.com/user-attachments/assets/d9af6a2f-e187-4400-b058-c7f7f9a3797c" />
+
+
 ## License
 
 MIT © 2025 YelloElefant
